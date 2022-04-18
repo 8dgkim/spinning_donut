@@ -1,4 +1,4 @@
-#SPINNING DONUT
+# SPINNING DONUT
 
 This is a spinning donut written in C.
 
